@@ -40,3 +40,7 @@ Ethos, vibe
 #### Demo App
 Prebuilt Source Code: https://github.com/luketn/quarkus-chat-gpt  
 Live-Built Source Code: ??
+
+#### Presentation Slides
+[Azure OpenAI Services - Java Meetup - Simon Waight.pdf](https://github.com/SydneyJavaMeetup/meetup-18-azure-gpt4/files/14505667/Azure.OpenAI.Services.-.Java.Meetup.-.Simon.Waight.pdf)
+
